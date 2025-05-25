@@ -1,0 +1,48 @@
+[
+  {
+    "type": "Dentist",
+    "time": "09:00-11:00",
+    "doctor": "Dr. Cameron Williamson",
+    "day": "Tuesday",
+    "icon": "🦷",
+    "color": "bg-indigo-700",
+    "date": "2021-10-26"
+  },
+  {
+    "type": "Physiotherapy Appointment",
+    "time": "11:00-12:00",
+    "doctor": "Dr. Kevin Djones",
+    "day": "Thursday",
+    "icon": "💪",
+    "color": "bg-indigo-200",
+    "date": "2021-10-28"
+  },
+  {
+    "type": "Health checkup complete",
+    "time": "11:00 AM",
+    "day": "Thursday",
+    "icon": "💉",
+    "color": "bg-indigo-100"
+  },
+  {
+    "type": "Ophthalmologist",
+    "time": "14:00 PM",
+    "day": "Thursday",
+    "icon": "👁",
+    "color": "bg-indigo-100"
+  },
+  {
+    "type": "Cardiologist",
+    "time": "12:00 AM",
+    "day": "Saturday",
+    "icon": "❤️",
+    "color": "bg-indigo-100"
+  },
+  {
+    "type": "Neurologist",
+    "time": "16:00 PM",
+    "day": "Saturday",
+    "icon": "🧑‍⚕️",
+    "color": "bg-indigo-100"
+  }
+]
